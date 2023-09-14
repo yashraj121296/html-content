@@ -1,0 +1,149 @@
+
+      {
+      
+        "text": [
+        "Start", 
+        "How to play", 
+        "Pick your player", 
+        "Choose the correct answer.", 
+        "Each time you catch a squid, you'll earn a coin.", 
+        "But every time you get a question wrong…splat! Beware, you'll lose a life.", 
+        "Play", 
+        "Level", 
+        "Play Again", 
+        "Yay!", 
+        "You've cleared this level.", 
+        "You have done it.", 
+        "Next Level"],
+      
+      "question": {
+                   
+                             "easy":[
+                                   
+                                   {
+                                     "id":"1",
+                                     "question":"the problem in a story",
+                                     "options":[
+                                     
+                                        "conflict",
+                                        "character",
+                                        "resolution"
+                                     ],
+                                    "correct":  "conflict"
+
+                                   },
+                                   {
+                                     "id":"2",
+                                     "question":"a word that means the opposite",
+                                     "options":[
+                                     
+                                        "antonym",
+                                        "synonym",
+                                        "definition"
+                                     ],
+                                    "correct":  "antonym"
+
+                                   },
+                                   {
+                                     "id":"3",
+                                     "question":"a rock that circles the Sun",
+                                     "options":[
+                                     
+                                        "asteroid",
+                                        "moon",
+                                        "spacecraft"
+                                     ],
+                                    "correct":  "asteroid"
+
+                                   },
+                                   {
+                                     "id":"4",
+                                     "question":"to do with the Sun",
+                                     "options":[
+                                     
+                                        "solar",
+                                        "lunar",
+                                        "astral"
+                                     ],
+                                    "correct":  "solar"
+
+                                   },
+                                   {
+                                     "id":"5",
+                                     "question":"materials, on on top of another",
+                                     "options":[
+                                     
+                                        "layers",
+                                        "mixture",
+                                        "fabric"
+                                     ],
+                                    "correct":  "layers"
+
+                                   },
+                                   {
+                                     "id":"6",
+                                     "question":"Emma travels through the Solar __.",
+                                     "options":[
+                                     
+                                        "System",
+                                        "Galaxy",
+                                        "Orbit"
+                                     ],
+                                    "correct":  "System"
+
+                                   },
+                                   {
+                                     "id":"7",
+                                     "question":"the antonym of smooth",
+                                     "options":[
+                                     
+                                        "bumpy",
+                                        "soft",
+                                        "amazing"
+                                     ],
+                                    "correct":  "bumpy"
+
+                                   },
+                                   {
+                                     "id":"8",
+                                     "question":"the antonym of massive",
+                                     "options":[
+                                     
+                                        "tiny",
+                                        "little",
+                                        "big"
+                                     ],
+                                    "correct":  "tiny"
+
+                                   },
+                                   {
+                                     "id":"9",
+                                     "question":"Jupiter's red spot is a __.",
+                                     "options":[
+                                     
+                                        "storm",
+                                        "crater",
+                                        "lake"
+                                     ],
+                                    "correct":  "storm"
+
+                                   },
+                                   {
+                                     "id":"10",
+                                     "question":"The surface of Jupiter is a __.",
+                                     "options":[
+                                     
+                                        "gas",
+                                        "solid",
+                                        "liquid"
+                                     ],
+                                    "correct":  "gas"
+
+                                   }
+
+                                ]
+                          
+                }
+        }        
+
+    

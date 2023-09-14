@@ -1,0 +1,240 @@
+
+    {
+    "flipcards": {
+             
+                "L4WHMDORKR6LEVOH4HGBNTGLSSQ":
+                 {
+                  "columns":  1,
+                  "description":"",
+                  "multiple_open":   false,
+                  "flip_direction": "right",
+                  "height": 500,
+                  "width":
+                                null
+                              ,
+                  "background": "",
+                   "image_id": "", 
+                    
+                      "statement": {
+                          "content": [
+                              {
+                                  "component_name": "section",
+                                  "component_id": "LRNVPBTNKLQ4EVJUF23Z7W7L37U",
+                                 "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                              }
+                          ]
+                          
+                      },
+                      
+                  "items": [
+                           
+                              {     "id": "L6H4REO6P66KUZJXAFXPQIUOLGM",
+                                    "card_id": 0,
+                                    "title": "Step 1",
+                                    "audio": "",
+                                   
+                                   
+                                    "audio_back": "",
+                                    
+                                    "front": {
+                                        "centered":  true,
+                                        "content": [
+                                            {
+                                                "component_name": "section",
+                                                "component_id": "LAJQA7ZQZMQEUDBZ7LIB2E77LCU",
+                                                "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                            }
+                                        ]
+                                    },
+                                    "back": {
+                                        "centered": true,
+                                        "content": [
+                                            {
+                                                "component_name": "section",
+                                                "component_id": "L7MVOXD7EE3SERDQWG54KVC3PGM",
+                                                "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                            }
+                                        ]
+                                    }
+                              } 
+                           
+                           ]
+                  } ,
+                "LSF5XIMJ75PVEZNPVP5USC47WLU":
+                 {
+                  "columns":  1,
+                  "description":"",
+                  "multiple_open":   false,
+                  "flip_direction": "right",
+                  "height": 500,
+                  "width":
+                                null
+                              ,
+                  "background": "",
+                   "image_id": "", 
+                    
+                      "statement": {
+                          "content": [
+                              {
+                                  "component_name": "section",
+                                  "component_id": "L2TFOR7WVFFVEJE5T64UTK6L4U4",
+                                 "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                              }
+                          ]
+                          
+                      },
+                      
+                  "items": [
+                           
+                              {     "id": "LJDII7GYLXGYEJLXS6N4T3DIXDA",
+                                    "card_id": 0,
+                                    "title": "Step 1",
+                                    "audio": "",
+                                   
+                                   
+                                    "audio_back": "",
+                                    
+                                    "front": {
+                                        "centered":  true,
+                                        "content": [
+                                            {
+                                                "component_name": "section",
+                                                "component_id": "LPAF5FVDXPP2UDJ6IVHN4MYBQ6Y",
+                                                "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                            }
+                                        ]
+                                    },
+                                    "back": {
+                                        "centered": true,
+                                        "content": [
+                                            {
+                                                "component_name": "section",
+                                                "component_id": "LZ25EH2KY63XE3N4URX3TDSMDNE",
+                                                "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                            }
+                                        ]
+                                    }
+                              } 
+                           
+                           ]
+                  } ,
+                "LG773HM4Y4JNEZPYBEKSFHTXJJY":
+                 {
+                  "columns":  1,
+                  "description":"",
+                  "multiple_open":   false,
+                  "flip_direction": "right",
+                  "height": 500,
+                  "width":
+                                null
+                              ,
+                  "background": "",
+                   "image_id": "", 
+                    
+                      "statement": {
+                          "content": [
+                              {
+                                  "component_name": "section",
+                                  "component_id": "LCTX7YYTLPEVUDMN2MXH6A567QM",
+                                 "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                              }
+                          ]
+                          
+                      },
+                      
+                  "items": [
+                           
+                              {     "id": "LBA7WYLIIBXREFNNLRODS3UPINE",
+                                    "card_id": 0,
+                                    "title": "Step 1",
+                                    "audio": "",
+                                   
+                                   
+                                    "audio_back": "",
+                                    
+                                    "front": {
+                                        "centered":  true,
+                                        "content": [
+                                            {
+                                                "component_name": "section",
+                                                "component_id": "LLLHJVDWV6EMU3IJI22ZOYNRPEU",
+                                                "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                            }
+                                        ]
+                                    },
+                                    "back": {
+                                        "centered": true,
+                                        "content": [
+                                            {
+                                                "component_name": "section",
+                                                "component_id": "LIL54KDYISFIUBE6CAWUJWZ3EWE",
+                                                "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                            }
+                                        ]
+                                    }
+                              } 
+                           
+                           ]
+                  } ,
+                "LLCEHPQ4WWGZU5HZJN3AHZGGURM":
+                 {
+                  "columns":  1,
+                  "description":"",
+                  "multiple_open":   false,
+                  "flip_direction": "right",
+                  "height": 500,
+                  "width":
+                                null
+                              ,
+                  "background": "",
+                   "image_id": "", 
+                    
+                      "statement": {
+                          "content": [
+                              {
+                                  "component_name": "section",
+                                  "component_id": "L5T3NQ22LO45EFKB7YAKSMAPTZA",
+                                 "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                              }
+                          ]
+                          
+                      },
+                      
+                  "items": [
+                           
+                              {     "id": "LROPNBMSPDFDEHDOSQWRV7RQKR4",
+                                    "card_id": 0,
+                                    "title": "Step 1",
+                                    "audio": "",
+                                   
+                                   
+                                    "audio_back": "",
+                                    
+                                    "front": {
+                                        "centered":  true,
+                                        "content": [
+                                            {
+                                                "component_name": "section",
+                                                "component_id": "LKYVWHFMH2ORELAYFVAFYLAKE5U",
+                                                "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                            }
+                                        ]
+                                    },
+                                    "back": {
+                                        "centered": true,
+                                        "content": [
+                                            {
+                                                "component_name": "section",
+                                                "component_id": "L56IDP54NXQJUZNSNSMQ2NNB6SI",
+                                                "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                            }
+                                        ]
+                                    }
+                              } 
+                           
+                           ]
+                  } 
+    }
+}
+
+    

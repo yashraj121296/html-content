@@ -1,0 +1,218 @@
+
+    {
+    "slide": {
+             
+                     "LJDV6OOTP3P4UXGIXSPI5QVDKIE":
+                      {
+                      "background":
+                                         ""
+                                      ,
+                      "ela_title1":"A Tour of the Solar System",
+                      "ela_title2":"Discover - Part Two",
+                      "lessonObjective":"I can figure out the meaning of new words.",
+                      "animation": "slide",
+                      "type": "",
+                      "height": 0,
+                      "adaptive_height": true,
+                      "component_color": "#F27F26",
+                      "nav_position": "top",
+                      "title": "",
+                      "nav_type": "",
+                      "hide_navigation": false,
+                      "hide_dots": false,
+                      "show_title": false, 
+                      "show_toc": false, 
+                      
+                      "cover_img":"./source/LTT6F2KP6QV6UHEGENO4S25JHEY/Coverpage.png",
+                             
+                      "items": [
+                               
+                                  {
+                                      "slide_id": 0,
+                                      "title":"",
+                                      "content": [
+                                          {
+                                              "component_name": "section",
+                                              "component_id": "LIGFZP2JI6EZU3JIATT2GGL2JOE",
+                                              "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                          }
+
+                                      ]
+                                  } 
+                              ,
+                                  {
+                                      "slide_id": 1,
+                                      "title":"Flip the cards to match the word with the correct matching image or text.",
+                                      "content": [
+                                          {
+                                              "component_name": "section",
+                                              "component_id": "LB2LRH5IINU6EXFJDEFNMWNYX3I",
+                                              "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                          }
+
+                                      ]
+                                  } 
+                              ,
+                                  {
+                                      "slide_id": 2,
+                                      "title":"Unfamiliar Words",
+                                      "content": [
+                                          {
+                                              "component_name": "section",
+                                              "component_id": "LEQ6OGVFVCEDEFJA66JTVFPSJI4",
+                                              "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                          }
+
+                                      ]
+                                  } 
+                              ,
+                                  {
+                                      "slide_id": 3,
+                                      "title":"Antonyms ",
+                                      "content": [
+                                          {
+                                              "component_name": "section",
+                                              "component_id": "LWMQ5KTY5RRIUVLNMEBDBEYUXP4",
+                                              "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                          }
+
+                                      ]
+                                  } 
+                              ,
+                                  {
+                                      "slide_id": 4,
+                                      "title":"Conflict and Resolution",
+                                      "content": [
+                                          {
+                                              "component_name": "section",
+                                              "component_id": "LWOH2NZDGWO7UPBA3DREHM5UKVI",
+                                              "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                          }
+
+                                      ]
+                                  } 
+                              ,
+                                  {
+                                      "slide_id": 5,
+                                      "title":"",
+                                      "content": [
+                                          {
+                                              "component_name": "section",
+                                              "component_id": "LQG2XGLW34GCEJONLXF3PGWPN2I_LNAVGZDI77FVEJA3MDSKWM36ZLU",
+                                              "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                          }
+
+                                      ]
+                                  } 
+                              ,
+                                  {
+                                      "slide_id": 6,
+                                      "title":"",
+                                      "content": [
+                                          {
+                                              "component_name": "section",
+                                              "component_id": "LWPKR3BMKSADEXIFWBYL7NR223I_LKNADKJEG2F3E3BO3LBXTQ2M2B4",
+                                              "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                          }
+
+                                      ]
+                                  } 
+                              ,
+                                  {
+                                      "slide_id": 7,
+                                      "title":"",
+                                      "content": [
+                                          {
+                                              "component_name": "section",
+                                              "component_id": "LV6F6Z54VBJIUHBGN7H3J4HYA7A",
+                                              "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                          }
+
+                                      ]
+                                  } 
+                              ,
+                                  {
+                                      "slide_id": 8,
+                                      "title":"",
+                                      "content": [
+                                          {
+                                              "component_name": "section",
+                                              "component_id": "LPHPKV5FVNBLEFALXAXEDOVOTUY",
+                                              "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                          }
+
+                                      ]
+                                  } 
+                              ,
+                                  {
+                                      "slide_id": 9,
+                                      "title":"",
+                                      "content": [
+                                          {
+                                              "component_name": "section",
+                                              "component_id": "LXVTMC4DREQHUVJXMEVP3B5VIFQ",
+                                              "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                          }
+
+                                      ]
+                                  } 
+                              ,
+                                  {
+                                      "slide_id": 10,
+                                      "title":"",
+                                      "content": [
+                                          {
+                                              "component_name": "section",
+                                              "component_id": "L4FFIAEXHDBTETBSNX2XHZ2RDRM",
+                                              "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                          }
+
+                                      ]
+                                  } 
+                              ,
+                                  {
+                                      "slide_id": 11,
+                                      "title":"",
+                                      "content": [
+                                          {
+                                              "component_name": "section",
+                                              "component_id": "LNNQKNK6LQ7AUPMMQEIW6UUTECI",
+                                              "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                          }
+
+                                      ]
+                                  } 
+                              ,
+                                  {
+                                      "slide_id": 12,
+                                      "title":"",
+                                      "content": [
+                                          {
+                                              "component_name": "section",
+                                              "component_id": "LVEPATA7VY62EZLR6MW43GTRC5I",
+                                              "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                          }
+
+                                      ]
+                                  } 
+                              ,
+                                  {
+                                      "slide_id": 13,
+                                      "title":"",
+                                      "content": [
+                                          {
+                                              "component_name": "section",
+                                              "component_id": "LCGOOVQWWD53EFFJIPG4YOXI6H4",
+                                              "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                          }
+
+                                      ]
+                                  } 
+                               
+                               ]
+                            }
+               
+    }
+}
+
+    

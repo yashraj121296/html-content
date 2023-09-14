@@ -1,0 +1,273 @@
+
+    {
+    "reader": {
+             
+                "LK5VITQ6MDXFURMMO3CCTT62HJ4_LKNADKJEG2F3E3BO3LBXTQ2M2B4":
+                 {
+                  "bg_image":"./source/LJ2DJIOKRPSQURMBI3SOCFA3DIU_LKNADKJEG2F3E3BO3LBXTQ2M2B4/CS_T1_ELA8_Reader_1_Part_2_Page_1.png",
+                  "has_reader": true,
+                  "is_bordered": false,
+                 
+                  "items": [
+
+                          
+
+                            
+                              {
+                                "id": "0",
+                                "type": "html",
+                                "content": {
+                                    "component_name": "html",
+                                    "component_id": "LS6MCRFV3XWLUHPSXOEDAJWDERE",
+                                    "file_name": [
+                                        "html","html_HM4VFK5UM3VUPM4AADARTAMKPM"
+                                    ]
+                                },
+
+                                 "position": 
+
+                               
+                                {
+                                   
+
+                                    
+
+                                            "width": 879,
+                                            "height": 480,
+                                            "x": 996,
+                                            "y": 382
+                                  
+                                  
+                                }
+                              
+                              }
+                           
+
+
+                             
+                 
+                          ],
+
+                         
+                                       "audio": {
+                                        "component_name": "audio",
+                                        "component_id": "LEHRLD4YY25TU3JGAKMJ3XBHZGY_LKNADKJEG2F3E3BO3LBXTQ2M2B4",
+                                        "file_name": [ "audio", "audio_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                    }
+
+                                
+
+                
+              
+                  } ,
+                "LZ6O3PKMESJLE7KN6WPPIYWAMKY":
+                 {
+                  "bg_image":"./source/LWMPX7PKCJ2QUTCTJC2ZIMEHLGA/CS_T1_ELA8_Reader_1_Part_2_Page_2.png",
+                  "has_reader": true,
+                  "is_bordered": false,
+                 
+                  "items": [
+
+                          
+
+                            
+                              {
+                                "id": "0",
+                                "type": "html",
+                                "content": {
+                                    "component_name": "html",
+                                    "component_id": "L2WUWMY4VGQYEXPEFHTW7YREH6I",
+                                    "file_name": [
+                                        "html","html_HM4VFK5UM3VUPM4AADARTAMKPM"
+                                    ]
+                                },
+
+                                 "position": 
+
+                               
+                                {
+                                   
+
+                                    
+
+                                            "width": 800,
+                                            "height": 632,
+                                            "x": 91,
+                                            "y": 167
+                                  
+                                  
+                                }
+                              
+                              }
+                           
+
+
+                             
+                 
+                          ],
+
+                         
+                                       "audio": {
+                                        "component_name": "audio",
+                                        "component_id": "LAVC4GQOGDD2UPG4YQE2XUMUS24",
+                                        "file_name": [ "audio", "audio_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                    }
+
+                                
+
+                
+              
+                  } ,
+                "LJQMNETUSBVYEBAMEX7MZ33ZFFA":
+                 {
+                  "bg_image":"./source/LPSJTZXOWZ5RURO5Z2F3B5UNVXY/CS_T1_ELA8_Reader_1_Part_2_Page_3.png",
+                  "has_reader": true,
+                  "is_bordered": false,
+                 
+                  "items": [
+
+                          
+
+                            
+                              {
+                                "id": "0",
+                                "type": "html",
+                                "content": {
+                                    "component_name": "html",
+                                    "component_id": "L4SCRTWL3QG4U7PGA6BQNGCGOQQ",
+                                    "file_name": [
+                                        "html","html_HM4VFK5UM3VUPM4AADARTAMKPM"
+                                    ]
+                                },
+
+                                 "position": 
+
+                               
+                                {
+                                   
+
+                                    
+
+                                            "width": 798,
+                                            "height": 290,
+                                            "x": 80,
+                                            "y": 620
+                                  
+                                  
+                                }
+                              
+                              }
+                           
+
+
+                            ,
+
+                            
+                              {
+                                "id": "1",
+                                "type": "html",
+                                "content": {
+                                    "component_name": "html",
+                                    "component_id": "LH6L3Z6764U5U7AM7W2SYAIK4FU",
+                                    "file_name": [
+                                        "html","html_HM4VFK5UM3VUPM4AADARTAMKPM"
+                                    ]
+                                },
+
+                                 "position": 
+
+                               
+                                {
+                                   
+
+                                    
+
+                                            "width": 898,
+                                            "height": 301,
+                                            "x": 950,
+                                            "y": 621
+                                  
+                                  
+                                }
+                              
+                              }
+                           
+
+
+                             
+                 
+                          ],
+
+                         
+                                       "audio": {
+                                        "component_name": "audio",
+                                        "component_id": "LWYJJ6XRQEEHUHPCCOH42YY4AG4",
+                                        "file_name": [ "audio", "audio_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                    }
+
+                                
+
+                
+              
+                  } ,
+                "LFFU3EFYUQ2GELK7NQKZBQA7NOE":
+                 {
+                  "bg_image":"./source/LY2IGMF3EXTRELOFQ25GL2PC5WI/CS_T1_ELA8_Reader_1_Part_2_Page_4.png",
+                  "has_reader": true,
+                  "is_bordered": false,
+                 
+                  "items": [
+
+                          
+                            
+
+                           
+                              {
+                               "id": "0",
+                              "type": "html",
+                              "content": {
+                                  "component_name": "html",
+                                  "component_id": "LCI5DGBIWMA2E3A4AVKJWCWBL3Q",
+                                  "file_name": [
+                                      "html","html_HM4VFK5UM3VUPM4AADARTAMKPM"
+                                  ]
+                              },
+
+                               "position": 
+
+                             
+                              {
+                                 
+
+                                  
+
+                                          "width": 788,
+                                          "height": 394,
+                                          "x": 995,
+                                          "y": 388
+                                
+                                
+                              }
+                            
+
+                            }
+                             
+                 
+                          ],
+
+                         
+                                       "audio": {
+                                        "component_name": "audio",
+                                        "component_id": "LIFPSCAG2GDWEXMTYTQDNUP3ZCA",
+                                        "file_name": [ "audio", "audio_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                    }
+
+                                
+
+                
+              
+                  } 
+    }
+}
+
+    

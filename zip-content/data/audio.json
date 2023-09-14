@@ -1,0 +1,375 @@
+
+
+      {
+      "audio": {
+                  
+                      "LCN3USBMDGARUXI6D4GG2L7RB54":
+                                {
+                                 "data": {
+                                            "type": "advance"
+                                  ,
+                                      
+                                            "description":"",
+                                            "autoplay": false,           
+                                            "url": "./source/L7I6LUNI2AMLEZFJ3PWAUHX6KMI/CS_ELA8_L020_Discover_AUD_001.mp3",
+                                            "id": "L7I6LUNI2AMLEZFJ3PWAUHX6KMI",
+                                            "controls": {
+                                                    "seekbar": true,
+                                                    "volume":  true,
+                                                    "download": false,
+                                                    "volume_level": false
+                                                    },
+                                           "position":null
+                                    }
+                                }
+                                ,
+                      "LHSND72DWCAHUROQZUBUDWPOIN4":
+                                {
+                                 "data": {
+                                            "type": "advance"
+                                  ,
+                                      
+                                            "description":"",
+                                            "autoplay": false,           
+                                            "url": "./source/LXJAPUPBW7L6UZC6FELBS2ZIAKM/CS_ELA8_L020_Discover_AUD_002.mp3",
+                                            "id": "LXJAPUPBW7L6UZC6FELBS2ZIAKM",
+                                            "controls": {
+                                                    "seekbar": true,
+                                                    "volume":  true,
+                                                    "download": false,
+                                                    "volume_level": false
+                                                    },
+                                           "position":null
+                                    }
+                                }
+                                ,
+                      "LYUELBU5C4G5UPKPOUVKLQ3VYTQ":
+                                {
+                                 "data": {
+                                            "type": "advance"
+                                  ,
+                                      
+                                            "description":"",
+                                            "autoplay": false,           
+                                            "url": "./source/LK5SU4GZ4OCAEZESG2OFJGJIXQA/CS_ELA8_L020_Discover_AUD_003.mp3",
+                                            "id": "LK5SU4GZ4OCAEZESG2OFJGJIXQA",
+                                            "controls": {
+                                                    "seekbar": true,
+                                                    "volume":  true,
+                                                    "download": false,
+                                                    "volume_level": false
+                                                    },
+                                           "position":null
+                                    }
+                                }
+                                ,
+                      "L7PMTJBNLFUZEBO3UPQVJI7VRVA":
+                                {
+                                 "data": {
+                                            "type": "advance"
+                                  ,
+                                      
+                                            "description":"",
+                                            "autoplay": false,           
+                                            "url": "./source/LVG3LXQ7ZIMYE5D6GDS6THCNUBM/CS_ELA8_L020_Discover_AUD_004.mp3",
+                                            "id": "LVG3LXQ7ZIMYE5D6GDS6THCNUBM",
+                                            "controls": {
+                                                    "seekbar": true,
+                                                    "volume":  true,
+                                                    "download": false,
+                                                    "volume_level": false
+                                                    },
+                                           "position":null
+                                    }
+                                }
+                                ,
+                      "LRPHWNWF4IAAULH2DWMCPPN5TSQ":
+                                {
+                                 "data": {
+                                            "type": "advance"
+                                  ,
+                                      
+                                            "description":"",
+                                            "autoplay": false,           
+                                            "url": "./source/LJ47SQA5XQAWULHO4I5MNSJOWYI/CS_ELA8_L020_Discover_AUD_005.mp3",
+                                            "id": "LJ47SQA5XQAWULHO4I5MNSJOWYI",
+                                            "controls": {
+                                                    "seekbar": true,
+                                                    "volume":  true,
+                                                    "download": false,
+                                                    "volume_level": false
+                                                    },
+                                           "position":null
+                                    }
+                                }
+                                ,
+                      "LEHRLD4YY25TU3JGAKMJ3XBHZGY_LKNADKJEG2F3E3BO3LBXTQ2M2B4":
+                                {
+                                 "data": {
+                                            "type": "simple"
+                                  ,
+                                      
+                                            "description":"",
+                                            "autoplay": false,           
+                                            "url": "./source/LDXY3Z7YOWLKEZG4GZYFNH7K2NI_LKNADKJEG2F3E3BO3LBXTQ2M2B4/P1.mp3",
+                                            "id": "LDXY3Z7YOWLKEZG4GZYFNH7K2NI_LKNADKJEG2F3E3BO3LBXTQ2M2B4",
+                                            "controls": {
+                                                    "seekbar": true,
+                                                    "volume":  true,
+                                                    "download": false,
+                                                    "volume_level": false
+                                                    },
+                                           "position":null,
+                                          
+                                               
+                                                 "reader_data": {
+                                                  "target": ".html-content-text[props-id='LS6MCRFV3XWLUHPSXOEDAJWDERE']",
+
+                                                 "elements": [{"type":"text","value":"Please","ts":2.96,"end_ts":3.38,"confidence":0.98},{"type":"punct","value":" "},{"type":"text","value":"keep","ts":3.38,"end_ts":3.66,"confidence":0.98},{"type":"punct","value":" "},{"type":"text","value":"your","ts":3.66,"end_ts":3.82,"confidence":0.98},{"type":"punct","value":" "},{"type":"text","value":"seatbelts","ts":3.82,"end_ts":4.03,"confidence":0.7},{"type":"punct","value":" "},{"type":"text","value":"fastened","ts":4.3,"end_ts":4.7,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"as","ts":4.7,"end_ts":4.86,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"we","ts":4.86,"end_ts":5.02,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"pass","ts":5.02,"end_ts":5.22,"confidence":0.95},{"type":"punct","value":" "},{"type":"text","value":"through","ts":5.22,"end_ts":5.46,"confidence":0.97},{"type":"punct","value":" "},{"type":"text","value":"the","ts":5.46,"end_ts":5.58,"confidence":0.97},{"type":"punct","value":" "},{"type":"text","value":"asteroid","ts":5.58,"end_ts":6.02,"confidence":0.97},{"type":"punct","value":" "},{"type":"text","value":"belt","ts":6.02,"end_ts":6.3,"confidence":0.99},{"type":"punct","value":"."},{"type":"punct","value":" "},{"type":"text","value":"the","ts":7.35,"end_ts":7.57,"confidence":0.97},{"type":"punct","value":" "},{"type":"text","value":"pilot’s","ts":7.68,"end_ts":8.17,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"voice","ts":8.17,"end_ts":8.41,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"said","ts":8.52,"end_ts":8.81,"confidence":0.87},{"type":"punct","value":" "},{"type":"text","value":"over","ts":8.81,"end_ts":9.05,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"the","ts":9.11,"end_ts":9.33,"confidence":0.98},{"type":"punct","value":" "},{"type":"text","value":"speakers","ts":9.33,"end_ts":9.85,"confidence":0.98},{"type":"punct","value":","},{"type":"punct","value":" "},{"type":"text","value":"The","ts":10.95,"end_ts":11.17,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"spacecraft","ts":11.17,"end_ts":11.81,"confidence":0.97},{"type":"punct","value":" "},{"type":"text","value":"carried","ts":11.81,"end_ts":12.25,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"Emma","ts":12.32,"end_ts":12.61,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"and","ts":12.79,"end_ts":13.01,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"her","ts":13.01,"end_ts":13.21,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"mother","ts":13.21,"end_ts":13.49,"confidence":0.97},{"type":"punct","value":" "},{"type":"text","value":"deeper","ts":13.49,"end_ts":13.85,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"into","ts":14.04,"end_ts":14.33,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"the","ts":14.33,"end_ts":14.45,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"solar","ts":14.45,"end_ts":14.69,"confidence":0.98},{"type":"punct","value":" "},{"type":"text","value":"system","ts":14.75,"end_ts":15.17,"confidence":0.99},{"type":"punct","value":"."},{"type":"punct","value":" "},{"type":"text","value":"The","ts":16.39,"end_ts":16.61,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"asteroid","ts":16.61,"end_ts":17.09,"confidence":0.98},{"type":"punct","value":" "},{"type":"text","value":"belt","ts":17.09,"end_ts":17.37,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"separates","ts":17.69,"end_ts":17.97,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"the","ts":17.97,"end_ts":18.17,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"smaller","ts":18.17,"end_ts":18.41,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"planets","ts":18.44,"end_ts":18.93,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"from","ts":18.93,"end_ts":19.05,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"the","ts":19.05,"end_ts":19.17,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"more","ts":19.17,"end_ts":19.33,"confidence":0.98},{"type":"punct","value":" "},{"type":"text","value":"massive","ts":19.33,"end_ts":19.57,"confidence":0.97},{"type":"punct","value":" "},{"type":"text","value":"ones","ts":20.04,"end_ts":20.33,"confidence":0.99},{"type":"punct","value":"."},{"type":"punct","value":" "},{"type":"text","value":"Our","ts":21.33,"end_ts":21.55,"confidence":0.97},{"type":"punct","value":" "},{"type":"text","value":"ride","ts":21.55,"end_ts":21.79,"confidence":0.98},{"type":"punct","value":" "},{"type":"text","value":"has","ts":21.81,"end_ts":22.03,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"been","ts":22.03,"end_ts":22.19,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"smooth","ts":22.19,"end_ts":22.51,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"so","ts":22.57,"end_ts":22.79,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"far","ts":22.79,"end_ts":22.99,"confidence":0.99},{"type":"punct","value":","},{"type":"punct","value":" "},{"type":"text","value":"but","ts":23.25,"end_ts":23.47,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"it","ts":23.47,"end_ts":23.63,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"might","ts":23.63,"end_ts":23.83,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"be","ts":23.83,"end_ts":23.99,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"a","ts":23.99,"end_ts":24.11,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"little","ts":24.11,"end_ts":24.23,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"bumpy","ts":24.32,"end_ts":24.67,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"for","ts":24.67,"end_ts":24.87,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"a","ts":24.87,"end_ts":24.99,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"few","ts":24.99,"end_ts":25.11,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"minutes","ts":25.11,"end_ts":25.35,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"When","ts":26.43,"end_ts":26.72,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"the","ts":26.72,"end_ts":26.88,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"spacecraft","ts":26.88,"end_ts":27.44,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"slowed","ts":27.5,"end_ts":27.92,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"again","ts":27.92,"end_ts":28.16,"confidence":0.99},{"type":"punct","value":","},{"type":"punct","value":" "},{"type":"text","value":"Emma","ts":28.31,"end_ts":28.6,"confidence":0.94},{"type":"punct","value":" "},{"type":"text","value":"peered","ts":28.84,"end_ts":28.96,"confidence":0.67},{"type":"punct","value":" "},{"type":"text","value":"out","ts":28.98,"end_ts":29.2,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"of","ts":29.2,"end_ts":29.28,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"her","ts":29.28,"end_ts":29.4,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"window","ts":29.4,"end_ts":29.64,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"only","ts":30.15,"end_ts":30.44,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"to","ts":30.46,"end_ts":30.68,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"see","ts":30.68,"end_ts":30.84,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"a","ts":30.88,"end_ts":31.0,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"cloud","ts":31.0,"end_ts":31.24,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"of","ts":31.24,"end_ts":31.4,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"dull","ts":31.56,"end_ts":31.72,"confidence":0.88},{"type":"punct","value":" "},{"type":"text","value":"gray","ts":31.72,"end_ts":31.96,"confidence":0.81},{"type":"punct","value":" "},{"type":"text","value":"through","ts":31.96,"end_ts":32.2,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"her","ts":32.2,"end_ts":32.36,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"porthole","ts":32.36,"end_ts":32.88,"confidence":0.98},{"type":"punct","value":","},{"type":"punct","value":" "},{"type":"text","value":"She","ts":33.86,"end_ts":34.08,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"felt","ts":34.08,"end_ts":34.28,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"a","ts":34.4,"end_ts":34.52,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"ball","ts":34.52,"end_ts":34.72,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"of","ts":34.72,"end_ts":34.92,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"fear","ts":34.95,"end_ts":35.24,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"deep","ts":35.27,"end_ts":35.56,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"in","ts":35.58,"end_ts":35.8,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"her","ts":35.8,"end_ts":35.96,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"stomach","ts":35.96,"end_ts":36.32,"confidence":0.99},{"type":"punct","value":"."},{"type":"punct","value":" "},{"type":"text","value":"Where","ts":37.5,"end_ts":37.85,"confidence":0.98},{"type":"punct","value":" "},{"type":"text","value":"were","ts":37.85,"end_ts":38.09,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"they","ts":38.09,"end_ts":38.37,"confidence":0.99},{"type":"punct","value":"?"},{"type":"punct","value":" "},{"type":"text","value":"Had","ts":39.68,"end_ts":39.9,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"something","ts":40.14,"end_ts":40.5,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"gone","ts":40.57,"end_ts":40.86,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"wrong","ts":40.86,"end_ts":41.14,"confidence":0.99},{"type":"punct","value":"?"}]
+
+                                                 }
+                                              
+                                    }
+                                }
+                                ,
+                      "LAVC4GQOGDD2UPG4YQE2XUMUS24":
+                                {
+                                 "data": {
+                                            "type": "simple"
+                                  ,
+                                      
+                                            "description":"",
+                                            "autoplay": false,           
+                                            "url": "./source/LB7RDUESP2SWULLQTEZT6KP7ARA/P2.mp3",
+                                            "id": "LB7RDUESP2SWULLQTEZT6KP7ARA",
+                                            "controls": {
+                                                    "seekbar": true,
+                                                    "volume":  true,
+                                                    "download": false,
+                                                    "volume_level": false
+                                                    },
+                                           "position":null,
+                                          
+                                               
+                                                 "reader_data": {
+                                                  "target": ".html-content-text[props-id='L2WUWMY4VGQYEXPEFHTW7YREH6I']",
+
+                                                 "elements": [{"type":"text","value":"Mom","ts":1.01,"end_ts":1.23,"confidence":0.97},{"type":"punct","value":","},{"type":"punct","value":" "},{"type":"text","value":"what","ts":1.5,"end_ts":1.79,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"is","ts":1.79,"end_ts":1.99,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"this","ts":1.99,"end_ts":2.15,"confidence":0.99},{"type":"punct","value":"?"},{"type":"punct","value":" "},{"type":"text","value":"Where","ts":2.76,"end_ts":3.11,"confidence":0.98},{"type":"punct","value":" "},{"type":"text","value":"are","ts":3.13,"end_ts":3.35,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"we","ts":3.35,"end_ts":3.51,"confidence":0.98},{"type":"punct","value":"?"},{"type":"punct","value":" "},{"type":"text","value":"That’s","ts":4.05,"end_ts":4.47,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"Jupiter","ts":4.47,"end_ts":4.95,"confidence":0.99},{"type":"punct","value":"."},{"type":"punct","value":" "},{"type":"text","value":"It","ts":5.88,"end_ts":6.1,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"looks","ts":6.1,"end_ts":6.3,"confidence":0.97},{"type":"punct","value":" "},{"type":"text","value":"strange","ts":6.3,"end_ts":6.62,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"from","ts":6.62,"end_ts":6.9,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"here","ts":6.9,"end_ts":7.1,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"because","ts":7.1,"end_ts":7.42,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"the","ts":7.48,"end_ts":7.7,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"surface","ts":7.7,"end_ts":7.94,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"is","ts":8.16,"end_ts":8.38,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"all","ts":8.38,"end_ts":8.58,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"gas","ts":8.64,"end_ts":8.86,"confidence":0.99},{"type":"punct","value":"."},{"type":"punct","value":" "},{"type":"text","value":"Emma","ts":9.99,"end_ts":10.28,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"took","ts":10.39,"end_ts":10.68,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"a","ts":10.76,"end_ts":10.88,"confidence":0.97},{"type":"punct","value":" "},{"type":"text","value":"deep","ts":10.88,"end_ts":11.12,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"breath","ts":11.12,"end_ts":11.48,"confidence":0.99},{"type":"punct","value":"."},{"type":"punct","value":" "},{"type":"text","value":"She","ts":12.7,"end_ts":12.92,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"would","ts":12.92,"end_ts":13.08,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"feel","ts":13.08,"end_ts":13.36,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"better","ts":13.36,"end_ts":13.64,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"when","ts":13.67,"end_ts":13.96,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"she","ts":13.96,"end_ts":14.16,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"was","ts":14.16,"end_ts":14.32,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"home","ts":14.32,"end_ts":14.6,"confidence":0.9},{"type":"punct","value":","},{"type":"punct","value":" "},{"type":"text","value":"safe","ts":14.67,"end_ts":14.96,"confidence":0.98},{"type":"punct","value":" "},{"type":"text","value":"on","ts":15.02,"end_ts":15.24,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"Earth","ts":15.24,"end_ts":15.44,"confidence":0.99},{"type":"punct","value":","},{"type":"punct","value":" "},{"type":"text","value":"But","ts":16.49,"end_ts":16.71,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"for","ts":16.71,"end_ts":16.91,"confidence":0.98},{"type":"punct","value":" "},{"type":"text","value":"now","ts":16.97,"end_ts":17.19,"confidence":0.99},{"type":"punct","value":","},{"type":"punct","value":" "},{"type":"text","value":"she","ts":17.25,"end_ts":17.47,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"would","ts":17.47,"end_ts":17.59,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"do","ts":17.59,"end_ts":17.79,"confidence":0.98},{"type":"punct","value":" "},{"type":"text","value":"her","ts":17.79,"end_ts":17.95,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"best","ts":17.95,"end_ts":18.23,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"to","ts":18.29,"end_ts":18.51,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"enjoy","ts":18.6,"end_ts":18.95,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"her","ts":18.97,"end_ts":19.19,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"solar","ts":19.19,"end_ts":19.51,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"system","ts":19.51,"end_ts":19.87,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"adventure","ts":19.87,"end_ts":20.35,"confidence":0.99},{"type":"punct","value":"."},{"type":"punct","value":" "},{"type":"text","value":"As","ts":21.48,"end_ts":21.7,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"they","ts":21.98,"end_ts":22.14,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"continued","ts":22.17,"end_ts":22.78,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"passing","ts":22.78,"end_ts":23.1,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"the","ts":23.2,"end_ts":23.42,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"gas","ts":23.44,"end_ts":23.66,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"giant","ts":23.75,"end_ts":24.1,"confidence":0.99},{"type":"punct","value":"."},{"type":"punct","value":" "},{"type":"text","value":"Emma","ts":24.37,"end_ts":24.66,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"studied","ts":24.66,"end_ts":25.1,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"the","ts":25.16,"end_ts":25.38,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"bright","ts":25.38,"end_ts":25.62,"confidence":0.99},{"type":"punct","value":","},{"type":"punct","value":" "},{"type":"text","value":"colorful","ts":25.98,"end_ts":26.18,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"surface","ts":26.18,"end_ts":26.46,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"that","ts":26.69,"end_ts":26.98,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"came","ts":26.98,"end_ts":27.22,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"into","ts":27.25,"end_ts":27.54,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"view","ts":27.54,"end_ts":27.78,"confidence":0.99},{"type":"punct","value":"."},{"type":"punct","value":" "},{"type":"text","value":"A","ts":28.91,"end_ts":29.03,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"mix","ts":29.03,"end_ts":29.23,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"of","ts":29.23,"end_ts":29.43,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"white","ts":29.43,"end_ts":29.75,"confidence":0.99},{"type":"punct","value":","},{"type":"punct","value":" "},{"type":"text","value":"pink","ts":30.1,"end_ts":30.39,"confidence":0.99},{"type":"punct","value":","},{"type":"punct","value":" "},{"type":"text","value":"gray","ts":30.66,"end_ts":30.95,"confidence":0.99},{"type":"punct","value":","},{"type":"punct","value":" "},{"type":"text","value":"and","ts":31.33,"end_ts":31.55,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"red","ts":31.69,"end_ts":31.91,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"layers","ts":31.91,"end_ts":32.19,"confidence":0.98},{"type":"punct","value":" "},{"type":"text","value":"swirled","ts":32.34,"end_ts":32.83,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"around","ts":32.83,"end_ts":33.11,"confidence":0.99},{"type":"punct","value":"."},{"type":"punct","value":" "},{"type":"text","value":"Finally","ts":34.09,"end_ts":34.58,"confidence":0.99},{"type":"punct","value":","},{"type":"punct","value":" "},{"type":"text","value":"Emma","ts":34.77,"end_ts":35.06,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"noticed","ts":35.06,"end_ts":35.42,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"a","ts":35.66,"end_ts":35.78,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"huge","ts":35.78,"end_ts":36.06,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"rust-colored","ts":36.06,"end_ts":36.74,"confidence":0.93},{"type":"punct","value":" "},{"type":"text","value":"spot","ts":36.81,"end_ts":37.1,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"staring","ts":37.33,"end_ts":37.82,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"at","ts":37.82,"end_ts":37.98,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"her","ts":37.98,"end_ts":38.1,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"like","ts":38.13,"end_ts":38.42,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"an","ts":38.42,"end_ts":38.54,"confidence":0.98},{"type":"punct","value":" "},{"type":"text","value":"eye","ts":38.56,"end_ts":38.78,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"from","ts":38.78,"end_ts":39.06,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"the","ts":39.06,"end_ts":39.14,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"surface","ts":39.14,"end_ts":39.46,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"of","ts":39.6,"end_ts":39.82,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"the","ts":39.82,"end_ts":39.98,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"planet","ts":39.98,"end_ts":40.26,"confidence":0.99},{"type":"punct","value":"."}]
+
+                                                 }
+                                              
+                                    }
+                                }
+                                ,
+                      "LWYJJ6XRQEEHUHPCCOH42YY4AG4":
+                                {
+                                 "data": {
+                                            "type": "simple"
+                                  ,
+                                      
+                                            "description":"",
+                                            "autoplay": false,           
+                                            "url": "./source/LERMA4VZLYDHUBBMIUX67WAACVY/P3.mp3",
+                                            "id": "LERMA4VZLYDHUBBMIUX67WAACVY",
+                                            "controls": {
+                                                    "seekbar": true,
+                                                    "volume":  true,
+                                                    "download": false,
+                                                    "volume_level": false
+                                                    },
+                                           "position":null,
+                                          
+                                               
+                                                 "reader_data": {
+                                                  "target": ".html-content-text[props-id='L4SCRTWL3QG4U7PGA6BQNGCGOQQ'],.html-content-text[props-id='LH6L3Z6764U5U7AM7W2SYAIK4FU']",
+
+                                                 "elements": [{"type":"text","value":"There’s","ts":0.46,"end_ts":0.95,"confidence":0.78},{"type":"punct","value":" "},{"type":"text","value":"Jupiter’s","ts":0.95,"end_ts":1.47,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"Great","ts":1.47,"end_ts":1.67,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"Red","ts":1.68,"end_ts":1.9,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"Spot","ts":1.93,"end_ts":2.22,"confidence":0.97},{"type":"punct","value":","},{"type":"punct","value":" "},{"type":"text","value":"she","ts":2.96,"end_ts":3.18,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"said","ts":3.25,"end_ts":3.54,"confidence":0.99},{"type":"punct","value":","},{"type":"punct","value":" "},{"type":"text","value":"pointing","ts":3.66,"end_ts":4.22,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"with","ts":4.22,"end_ts":4.42,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"excitement","ts":4.42,"end_ts":5.06,"confidence":0.99},{"type":"punct","value":"."},{"type":"punct","value":" "},{"type":"text","value":"Believe","ts":6.06,"end_ts":6.55,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"it","ts":6.55,"end_ts":6.67,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"or","ts":6.67,"end_ts":6.83,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"not","ts":6.85,"end_ts":7.07,"confidence":0.99},{"type":"punct","value":","},{"type":"punct","value":" "},{"type":"text","value":"it’s","ts":7.42,"end_ts":7.71,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"actually","ts":7.91,"end_ts":7.99,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"a","ts":8.11,"end_ts":8.23,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"huge","ts":8.23,"end_ts":8.47,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"storm","ts":8.47,"end_ts":8.79,"confidence":0.99},{"type":"punct","value":"."},{"type":"punct","value":" "},{"type":"text","value":"her","ts":10.05,"end_ts":10.27,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"mom","ts":10.37,"end_ts":10.59,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"said","ts":10.82,"end_ts":11.11,"confidence":0.99},{"type":"punct","value":","},{"type":"punct","value":" "},{"type":"text","value":"Can","ts":12.24,"end_ts":12.46,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"you","ts":12.46,"end_ts":12.62,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"imagine","ts":12.62,"end_ts":12.98,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"that","ts":13.05,"end_ts":13.34,"confidence":0.99},{"type":"punct","value":" "},{ "type": "break", "value":" " },{"type":"text","value":"The","ts":14.5,"end_ts":14.72,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"spacecraft","ts":14.72,"end_ts":15.36,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"began","ts":15.53,"end_ts":15.88,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"to","ts":15.88,"end_ts":16.04,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"speed","ts":16.04,"end_ts":16.32,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"away","ts":16.32,"end_ts":16.6,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"from","ts":16.6,"end_ts":16.84,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"Jupiter","ts":16.87,"end_ts":17.36,"confidence":0.99},{"type":"punct","value":""},{"type":"text","value":"The","ts":18.02,"end_ts":18.24,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"stars","ts":18.42,"end_ts":18.77,"confidence":0.98},{"type":"punct","value":" "},{"type":"text","value":"in","ts":18.83,"end_ts":19.05,"confidence":0.86},{"type":"punct","value":" "},{"type":"text","value":"Emma’s","ts":19.23,"end_ts":19.65,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"window","ts":19.65,"end_ts":19.85,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"blurred","ts":19.92,"end_ts":20.41,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"again","ts":20.41,"end_ts":20.65,"confidence":0.99},{"type":"punct","value":","},{"type":"punct","value":" "},{"type":"text","value":"and","ts":21.15,"end_ts":21.37,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"soon","ts":21.37,"end_ts":21.65,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"the","ts":21.67,"end_ts":21.89,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"passengers","ts":21.89,"end_ts":22.41,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"were","ts":22.41,"end_ts":22.65,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"admiring","ts":22.65,"end_ts":23.13,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"the","ts":23.13,"end_ts":23.33,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"enormous","ts":23.45,"end_ts":23.61,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"rings","ts":23.78,"end_ts":24.13,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"of","ts":24.13,"end_ts":24.25,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"Saturn","ts":24.27,"end_ts":24.69,"confidence":0.99},{"type":"punct","value":"."},{"type":"punct","value":" "},{"type":"text","value":"They","ts":25.58,"end_ts":25.87,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"continued","ts":25.87,"end_ts":26.47,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"their","ts":26.47,"end_ts":26.63,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"tour","ts":26.66,"end_ts":26.95,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"stopping","ts":27.71,"end_ts":27.83,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"at","ts":27.93,"end_ts":28.15,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"the","ts":28.15,"end_ts":28.27,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"planets","ts":28.27,"end_ts":28.71,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"of","ts":28.71,"end_ts":28.79,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"Uranus","ts":29.03,"end_ts":29.35,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"and","ts":29.37,"end_ts":29.59,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"Neptune","ts":29.59,"end_ts":30.07,"confidence":0.99},{"type":"punct","value":","},{"type":"punct","value":" "},{"type":"text","value":"as","ts":30.49,"end_ts":30.71,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"well","ts":30.71,"end_ts":30.95,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"as","ts":30.95,"end_ts":31.11,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"the","ts":31.11,"end_ts":31.31,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"dwarf","ts":31.32,"end_ts":31.67,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"planet","ts":31.67,"end_ts":31.99,"confidence":0.98},{"type":"punct","value":" "},{"type":"text","value":"Pluto","ts":32.24,"end_ts":32.59,"confidence":0.99},{"type":"punct","value":"."},{"type":"punct","value":" "},{"type":"text","value":"At","ts":33.53,"end_ts":33.75,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"each","ts":33.75,"end_ts":33.99,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"stop","ts":34.1,"end_ts":34.39,"confidence":0.99},{"type":"punct","value":","},{"type":"punct","value":" "},{"type":"text","value":"there","ts":34.56,"end_ts":34.91,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"was","ts":34.91,"end_ts":35.07,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"something","ts":35.07,"end_ts":35.39,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"for","ts":35.39,"end_ts":35.59,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"Emma","ts":35.59,"end_ts":35.83,"confidence":0.98},{"type":"punct","value":" "},{"type":"text","value":"to","ts":35.93,"end_ts":36.15,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"ask","ts":36.17,"end_ts":36.39,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"about","ts":36.39,"end_ts":36.67,"confidence":0.99},{"type":"punct","value":","},{"type":"punct","value":" "},{"type":"text","value":"but","ts":37.09,"end_ts":37.31,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"she","ts":37.31,"end_ts":37.51,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"mostly","ts":37.51,"end_ts":37.83,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"watched","ts":37.83,"end_ts":38.31,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"in","ts":38.33,"end_ts":38.55,"confidence":0.72},{"type":"punct","value":" "},{"type":"text","value":"wonder","ts":38.55,"end_ts":38.91,"confidence":0.99},{"type":"punct","value":"."}]
+
+                                                 }
+                                              
+                                    }
+                                }
+                                ,
+                      "LIFPSCAG2GDWEXMTYTQDNUP3ZCA":
+                                {
+                                 "data": {
+                                            "type": "simple"
+                                  ,
+                                      
+                                            "description":"",
+                                            "autoplay": false,           
+                                            "url": "./source/LM53OI5FOEEFUVBM7BTQWTTGOTY/P4.mp3",
+                                            "id": "LM53OI5FOEEFUVBM7BTQWTTGOTY",
+                                            "controls": {
+                                                    "seekbar": true,
+                                                    "volume":  true,
+                                                    "download": false,
+                                                    "volume_level": false
+                                                    },
+                                           "position":null,
+                                          
+                                               
+                                                 "reader_data": {
+                                                  "target": ".html-content-text[props-id='LCI5DGBIWMA2E3A4AVKJWCWBL3Q']",
+
+                                                 "elements": [{"type":"text","value":"Finally","ts":0.42,"end_ts":0.91,"confidence":0.99},{"type":"punct","value":","},{"type":"punct","value":" "},{"type":"text","value":"Emma","ts":1.29,"end_ts":1.58,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"saw","ts":1.76,"end_ts":1.98,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"a","ts":2.02,"end_ts":2.14,"confidence":0.91},{"type":"punct","value":" "},{"type":"text","value":"familiar","ts":2.34,"end_ts":2.5,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"sight","ts":2.63,"end_ts":2.98,"confidence":0.97},{"type":"punct","value":" "},{"type":"text","value":"in","ts":3.04,"end_ts":3.26,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"her","ts":3.26,"end_ts":3.42,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"window","ts":3.42,"end_ts":3.7,"confidence":0.99},{"type":"punct","value":","},{"type":"punct","value":" "},{"type":"text","value":"the","ts":4.2,"end_ts":4.42,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"blue","ts":4.42,"end_ts":4.7,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"waters","ts":4.76,"end_ts":5.18,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"of","ts":5.18,"end_ts":5.3,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"Earth","ts":5.3,"end_ts":5.5,"confidence":0.99},{"type":"punct","value":"."},{"type":"punct","value":" "},{"type":"text","value":"She","ts":6.65,"end_ts":6.87,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"noticed","ts":6.87,"end_ts":7.15,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"for","ts":7.29,"end_ts":7.51,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"the","ts":7.51,"end_ts":7.67,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"first","ts":7.67,"end_ts":7.87,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"time","ts":7.94,"end_ts":8.23,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"that","ts":8.26,"end_ts":8.55,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"the","ts":8.55,"end_ts":8.75,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"color","ts":8.75,"end_ts":8.99,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"of","ts":8.99,"end_ts":9.19,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"the","ts":9.19,"end_ts":9.31,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"oceans","ts":9.41,"end_ts":9.83,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"matched","ts":9.83,"end_ts":10.27,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"her","ts":10.27,"end_ts":10.43,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"mother’s","ts":10.43,"end_ts":10.91,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"shirt","ts":10.91,"end_ts":11.11,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"almost","ts":11.21,"end_ts":11.63,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"perfectly","ts":11.7,"end_ts":12.31,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"Home","ts":13.59,"end_ts":13.88,"confidence":0.98},{"type":"punct","value":"."},{"type":"punct","value":" "},{"type":"text","value":"She","ts":14.58,"end_ts":14.8,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"thought","ts":14.8,"end_ts":15.16,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"Safe","ts":16.41,"end_ts":16.7,"confidence":0.98},{"type":"punct","value":" "},{"type":"text","value":"and","ts":16.7,"end_ts":16.9,"confidence":0.97},{"type":"punct","value":" "},{"type":"text","value":"sound","ts":16.91,"end_ts":17.26,"confidence":0.99},{"type":"punct","value":"."},{"type":"punct","value":" "},{"type":"text","value":"This","ts":17.77,"end_ts":18.06,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"was","ts":18.06,"end_ts":18.18,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"the","ts":18.18,"end_ts":18.38,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"first","ts":18.38,"end_ts":18.66,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"and","ts":18.88,"end_ts":19.1,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"last","ts":19.17,"end_ts":19.46,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"stop","ts":19.61,"end_ts":19.9,"confidence":0.98},{"type":"punct","value":" "},{"type":"text","value":"in","ts":19.92,"end_ts":20.14,"confidence":0.93},{"type":"punct","value":" "},{"type":"text","value":"their","ts":20.14,"end_ts":20.34,"confidence":0.97},{"type":"punct","value":" "},{"type":"text","value":"incredible","ts":20.34,"end_ts":20.78,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"though","ts":21.16,"end_ts":21.58,"confidence":0.65},{"type":"punct","value":" "},{"type":"text","value":"sometimes","ts":21.58,"end_ts":22.02,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"scary","ts":22.15,"end_ts":22.5,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"tour","ts":22.81,"end_ts":23.1,"confidence":0.98},{"type":"punct","value":" "},{"type":"text","value":"of","ts":23.1,"end_ts":23.3,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"the","ts":23.3,"end_ts":23.42,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"solar","ts":23.42,"end_ts":23.66,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"system","ts":23.72,"end_ts":24.14,"confidence":0.99},{"type":"punct","value":"."}]
+
+                                                 }
+                                              
+                                    }
+                                }
+                                ,
+                      "LTZVSVBW2B7OUVHXMD52GPEPO2U":
+                                {
+                                 "data": {
+                                            "type": "simple"
+                                  ,
+                                      
+                                            "description":"",
+                                            "autoplay": false,           
+                                            "url": "./source/LCPR5JUZMUICUJGGXHPHNQKTCJ4/q1.mp3",
+                                            "id": "LCPR5JUZMUICUJGGXHPHNQKTCJ4",
+                                            "controls": {
+                                                    "seekbar": true,
+                                                    "volume":  true,
+                                                    "download": false,
+                                                    "volume_level": false
+                                                    },
+                                           "position":null,
+                                          
+
+                                                   "reader_data": {
+                                                  "target": ".html-content-text[props-id='LS4NXPVLRP7NULDLQF4LPNJFECE']",
+
+                                                 "elements": [{"type":"text","value":"The","ts":0.29,"end_ts":0.51,"confidence":0.72},{"type":"punct","value":" "},{"type":"text","value":"asteroid","ts":0.51,"end_ts":0.95,"confidence":0.93},{"type":"punct","value":" "},{"type":"text","value":"belt","ts":0.95,"end_ts":1.23,"confidence":0.91},{"type":"punct","value":" "},{"type":"text","value":"separates","ts":1.55,"end_ts":1.83,"confidence":0.98},{"type":"punct","value":" "},{"type":"text","value":"the","ts":1.85,"end_ts":2.07,"confidence":0.97},{"type":"punct","value":" "},{"type":"text","value":"smaller","ts":2.07,"end_ts":2.31,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"planets","ts":2.38,"end_ts":2.87,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"from","ts":2.87,"end_ts":3.03,"confidence":0.97},{"type":"punct","value":" "},{"type":"text","value":"the","ts":3.03,"end_ts":3.15,"confidence":0.98},{"type":"punct","value":" "},{"type":"text","value":"more","ts":3.15,"end_ts":3.35,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"massive","ts":3.35,"end_ts":3.59,"confidence":0.96},{"type":"punct","value":" "},{"type":"text","value":"ones","ts":3.82,"end_ts":4.11,"confidence":0.99},{"type":"punct","value":"."}]
+
+                                                 }
+
+                                               
+                                    }
+                                }
+                                ,
+                      "LYYEWYIHVBAIEHAZQLGCK53HNDI":
+                                {
+                                 "data": {
+                                            "type": "simple"
+                                  ,
+                                      
+                                            "description":"",
+                                            "autoplay": false,           
+                                            "url": "./source/LI4GEIWRYI32UVLPYUHO6UO7YWA/CS_ELA8_L020_Discover_AUD_006.mp3",
+                                            "id": "LI4GEIWRYI32UVLPYUHO6UO7YWA",
+                                            "controls": {
+                                                    "seekbar": true,
+                                                    "volume":  true,
+                                                    "download": false,
+                                                    "volume_level": false
+                                                    },
+                                           "position":null
+                                    }
+                                }
+                                ,
+                      "LFB4FN5NLL6SEJNU5HZEM34YMUY":
+                                {
+                                 "data": {
+                                            "type": "simple"
+                                  ,
+                                      
+                                            "description":"",
+                                            "autoplay": false,           
+                                            "url": "./source/LQQ7S3A6WICFETDGFAYCIR5FWPY/q2.mp3",
+                                            "id": "LQQ7S3A6WICFETDGFAYCIR5FWPY",
+                                            "controls": {
+                                                    "seekbar": true,
+                                                    "volume":  true,
+                                                    "download": false,
+                                                    "volume_level": false
+                                                    },
+                                           "position":null,
+                                          
+
+                                                   "reader_data": {
+                                                  "target": ".html-content-text[props-id='LC6WIHTQEWTPEJE6SXEGHKPHLDA']",
+
+                                                 "elements": [{"type":"text","value":"Our","ts":0.38,"end_ts":0.6,"confidence":0.67},{"type":"punct","value":" "},{"type":"text","value":"ride","ts":0.6,"end_ts":0.8,"confidence":0.86},{"type":"punct","value":" "},{"type":"text","value":"has","ts":0.82,"end_ts":1.04,"confidence":0.88},{"type":"punct","value":" "},{"type":"text","value":"been","ts":1.04,"end_ts":1.2,"confidence":0.95},{"type":"punct","value":" "},{"type":"text","value":"smooth","ts":1.2,"end_ts":1.48,"confidence":0.94},{"type":"punct","value":" "},{"type":"text","value":"so","ts":1.54,"end_ts":1.76,"confidence":0.97},{"type":"punct","value":" "},{"type":"text","value":"far","ts":1.76,"end_ts":1.96,"confidence":0.98},{"type":"punct","value":","},{"type":"punct","value":" "},{"type":"text","value":"but","ts":2.22,"end_ts":2.44,"confidence":0.98},{"type":"punct","value":" "},{"type":"text","value":"it","ts":2.44,"end_ts":2.6,"confidence":0.97},{"type":"punct","value":" "},{"type":"text","value":"might","ts":2.6,"end_ts":2.8,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"be","ts":2.8,"end_ts":2.96,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"a","ts":3.0,"end_ts":3.12,"confidence":0.98},{"type":"punct","value":" "},{"type":"text","value":"little","ts":3.12,"end_ts":3.2,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"bumpy","ts":3.29,"end_ts":3.64,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"for","ts":3.64,"end_ts":3.84,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"a","ts":3.84,"end_ts":3.96,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"few","ts":3.96,"end_ts":4.08,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"minutes","ts":4.08,"end_ts":4.32,"confidence":0.99},{"type":"punct","value":"."}]
+
+                                                 }
+
+                                               
+                                    }
+                                }
+                                ,
+                      "LSQQKCCECZ5AUDEDNMLYOCMJTRE":
+                                {
+                                 "data": {
+                                            "type": "simple"
+                                  ,
+                                      
+                                            "description":"",
+                                            "autoplay": false,           
+                                            "url": "./source/LHXBH3BCMNFQELIOZDVNMBT2SLI/CS_ELA8_L020_Discover_AUD_007.mp3",
+                                            "id": "LHXBH3BCMNFQELIOZDVNMBT2SLI",
+                                            "controls": {
+                                                    "seekbar": true,
+                                                    "volume":  true,
+                                                    "download": false,
+                                                    "volume_level": false
+                                                    },
+                                           "position":null
+                                    }
+                                }
+                                ,
+                      "LQSSKQNHNKISUTGJM5RSDSLZ2RA":
+                                {
+                                 "data": {
+                                            "type": "simple"
+                                  ,
+                                      
+                                            "description":"",
+                                            "autoplay": false,           
+                                            "url": "./source/LK5IBNJCH4SOEZKKZHWWWQROX3M/q3.mp3",
+                                            "id": "LK5IBNJCH4SOEZKKZHWWWQROX3M",
+                                            "controls": {
+                                                    "seekbar": true,
+                                                    "volume":  true,
+                                                    "download": false,
+                                                    "volume_level": false
+                                                    },
+                                           "position":null,
+                                          
+
+                                                   "reader_data": {
+                                                  "target": ".html-content-text[props-id='LBNIVTHRUYRXUNEK6OCBWMHLQHM']",
+
+                                                 "elements": [{"type":"text","value":"Home","ts":0.56,"end_ts":1.60,"confidence":0.66},{"type":"punct","value":"."},{"type":"punct","value":" "},{"type":"text","value":"She","ts":1.61,"end_ts":1.81,"confidence":0.87},{"type":"punct","value":" "},{"type":"text","value":"thought","ts":1.81,"end_ts":2.13,"confidence":0.91},{"type":"punct","value":" "},{"type":"text","value":"Safe","ts":3.49,"end_ts":3.78,"confidence":0.81},{"type":"punct","value":" "},{"type":"text","value":"and","ts":3.78,"end_ts":3.98,"confidence":0.91},{"type":"punct","value":" "},{"type":"text","value":"sound","ts":3.99,"end_ts":4.34,"confidence":0.94},{"type":"punct","value":"."},{"type":"punct","value":" "},{"type":"text","value":"This","ts":4.93,"end_ts":5.22,"confidence":0.95},{"type":"punct","value":" "},{"type":"text","value":"was","ts":5.22,"end_ts":5.42,"confidence":0.94},{"type":"punct","value":" "},{"type":"text","value":"the","ts":5.42,"end_ts":5.62,"confidence":0.96},{"type":"punct","value":" "},{"type":"text","value":"first","ts":5.62,"end_ts":5.86,"confidence":0.98},{"type":"punct","value":" "},{"type":"text","value":"and","ts":6.04,"end_ts":6.26,"confidence":0.97},{"type":"punct","value":" "},{"type":"text","value":"last","ts":6.26,"end_ts":6.5,"confidence":0.96},{"type":"punct","value":" "},{"type":"text","value":"stop","ts":6.61,"end_ts":6.9,"confidence":0.92},{"type":"punct","value":" "},{"type":"text","value":"in","ts":6.92,"end_ts":7.14,"confidence":0.59},{"type":"punct","value":" "},{"type":"text","value":"their","ts":7.14,"end_ts":7.42,"confidence":0.85},{"type":"punct","value":" "},{"type":"text","value":"incredible","ts":7.42,"end_ts":7.78,"confidence":0.98},{"type":"punct","value":" "},{"type":"text","value":"though","ts":8.08,"end_ts":8.5,"confidence":0.79},{"type":"punct","value":" "},{"type":"text","value":"sometimes","ts":8.5,"end_ts":8.94,"confidence":0.99},{"type":"punct","value":" "},{"type":"text","value":"scary","ts":9.07,"end_ts":9.42,"confidence":0.98},{"type":"punct","value":" "},{"type":"text","value":"tour","ts":9.73,"end_ts":10.02,"confidence":0.98},{"type":"punct","value":" "},{"type":"text","value":"of","ts":10.02,"end_ts":10.18,"confidence":0.97},{"type":"punct","value":" "},{"type":"text","value":"the","ts":10.18,"end_ts":10.34,"confidence":0.98},{"type":"punct","value":" "},{"type":"text","value":"solar","ts":10.34,"end_ts":10.58,"confidence":0.98},{"type":"punct","value":" "},{"type":"text","value":"system","ts":10.6,"end_ts":11.02,"confidence":0.99},{"type":"punct","value":"."}]
+
+                                                 }
+
+                                               
+                                    }
+                                }
+                                ,
+                      "LNXBBL7QKPOUE3L3QLGQNPQHM7Y":
+                                {
+                                 "data": {
+                                            "type": "simple"
+                                  ,
+                                      
+                                            "description":"",
+                                            "autoplay": false,           
+                                            "url": "./source/LE6QSFNUZOOFEVNI2ERPPOKBGPM/CS_ELA8_L020_Discover_AUD_008.mp3",
+                                            "id": "LE6QSFNUZOOFEVNI2ERPPOKBGPM",
+                                            "controls": {
+                                                    "seekbar": true,
+                                                    "volume":  true,
+                                                    "download": false,
+                                                    "volume_level": false
+                                                    },
+                                           "position":null
+                                    }
+                                }
+                                
+         }
+      }
+
+    

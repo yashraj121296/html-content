@@ -1,0 +1,182 @@
+
+    {
+    "memory_flip": {
+             
+                "LQCHCSLAKSTIEJFUTM5OYP6PXYA":
+                 {
+                  "paired_effect":"show",
+                  "column": 4,
+                  "padding": 10,
+                  "show_counter": false,
+                  "height":300,
+                  "background_image":"",
+                  "image_id": "",
+                  
+                  "cards": [
+                                                 
+                              {
+                                    "card_id": 1,
+                                        
+                                    "id": "LCYBIXQGMWYXUPHN5BEJJ6WZG2I",
+                                    "pair_id": 1,
+                                                      "front": {
+                                                                  "centered":  true,
+                                                                  "component_name": "section",
+
+                                                                   
+                                                                             "component_id": "LU7VGE4BPMS3UBIOR4FUG32RT5M",
+                                                                        
+
+                                                               
+                                                                  "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                                               }
+                                                     
+
+                              } 
+                          ,                      
+                              {
+                                    "card_id": 2,
+                                        
+                                    "id": "LCYBIXQGMWYXUPHN5BEJJ6WZG2I",
+                                    "pair_id": 1,
+                                                      "front": {
+                                                                  "centered":  true,
+                                                                  "component_name": "section",
+
+                                                                   
+                                                                             "component_id": "L2CL2VEJKWQ4ERCTATP2ROGAJ34",
+                                                                        
+
+                                                               
+                                                                  "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                                               }
+                                                     
+
+                              } 
+                          ,                      
+                              {
+                                    "card_id": 3,
+                                        
+                                    "id": "LVLKF3CBSKITETJHVHOM52BVZW4",
+                                    "pair_id": 2,
+                                                      "front": {
+                                                                  "centered":  true,
+                                                                  "component_name": "section",
+
+                                                                   
+                                                                             "component_id": "LYTZZJD3LQKDUZC45ZQGTH6CYII",
+                                                                        
+
+                                                               
+                                                                  "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                                               }
+                                                     
+
+                              } 
+                          ,                      
+                              {
+                                    "card_id": 4,
+                                        
+                                    "id": "LVLKF3CBSKITETJHVHOM52BVZW4",
+                                    "pair_id": 2,
+                                                      "front": {
+                                                                  "centered":  true,
+                                                                  "component_name": "section",
+
+                                                                   
+                                                                             "component_id": "LI57W5REAG42E7KAL55DTN34WC4",
+                                                                        
+
+                                                               
+                                                                  "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                                               }
+                                                     
+
+                              } 
+                          ,                      
+                              {
+                                    "card_id": 5,
+                                        
+                                    "id": "LE2TO7GJC3JUURA65SZJAQJTJOQ",
+                                    "pair_id": 3,
+                                                      "front": {
+                                                                  "centered":  true,
+                                                                  "component_name": "section",
+
+                                                                   
+                                                                             "component_id": "LVR2WQHWOK6EULDYWYWRGVAP7TY",
+                                                                        
+
+                                                               
+                                                                  "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                                               }
+                                                     
+
+                              } 
+                          ,                      
+                              {
+                                    "card_id": 6,
+                                        
+                                    "id": "LE2TO7GJC3JUURA65SZJAQJTJOQ",
+                                    "pair_id": 3,
+                                                      "front": {
+                                                                  "centered":  true,
+                                                                  "component_name": "section",
+
+                                                                   
+                                                                             "component_id": "LN6OFV3IUMAAEXODN2RMYPT72IE",
+                                                                        
+
+                                                               
+                                                                  "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                                               }
+                                                     
+
+                              } 
+                          ,                      
+                              {
+                                    "card_id": 7,
+                                        
+                                    "id": "LY3WKVBPC6FFEDHGL22KF4XQLJA",
+                                    "pair_id": 4,
+                                                      "front": {
+                                                                  "centered":  true,
+                                                                  "component_name": "section",
+
+                                                                   
+                                                                             "component_id": "LQUYK7UP7ZREEZDYZWTPHLE6XN4",
+                                                                        
+
+                                                               
+                                                                  "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                                               }
+                                                     
+
+                              } 
+                          ,                      
+                              {
+                                    "card_id": 8,
+                                        
+                                    "id": "LY3WKVBPC6FFEDHGL22KF4XQLJA",
+                                    "pair_id": 4,
+                                                      "front": {
+                                                                  "centered":  true,
+                                                                  "component_name": "section",
+
+                                                                   
+                                                                             "component_id": "LFSJFX2LYHQZULNCI5HD37K5QDU",
+                                                                        
+
+                                                               
+                                                                  "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                                               }
+                                                     
+
+                              } 
+                           
+                           ]
+                  } 
+    }
+}
+
+    

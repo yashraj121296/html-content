@@ -1,0 +1,561 @@
+
+
+{
+   "question": {
+
+   
+                      "LRLKGR4MQKMMEBLICWRMOVFFBNQ":{
+                        "type": "radio",
+                        "mcq_type":
+                                       null
+                                      ,
+                        "question_full_width":false,
+                        "submit_counter": false,
+                        "question_title":" ",
+                        "question_number":"1",
+                        "column": 2,
+                        "submit_limit": 2,
+                        "shuffled": true,
+                        "feedback_type": 
+                                                "incorrect"
+                                              ,
+                        "theme":"",
+                        "validation":
+                                      true
+                                     ,
+                        
+                               "animation": null,
+                            
+                        "statement": {
+                            "content": [
+                                {
+                                    "component_name": "section",
+                                    "component_id": "LQWI56GTZAF7E5MUU6CYW6FEZ4Y",
+                                     "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                }
+                            ]
+                            
+                        },
+                      
+                        "side_image": {
+                            "content": [
+                                {
+                                    "component_name": "image",
+                                    "component_id": "LNOBFAPONCRAEPDBI5Y6OLKSF34",
+                                     "file_name": [ "image", "image_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                }
+                            ]
+                            
+                        },
+                      
+                     "options": [
+                     
+                         {   "id": "LEN6CC3O5HOVU7MY4MPPQBUOHGE",
+                             "option_id": 0,
+                             "is_correct": true,
+                             "statement": {
+                                 "component_name": "section",
+                                 "component_id": "LE6GBMYELIQRUBNTHQB34NTTIIQ",
+                                 "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                              }
+                               
+                          } ,
+                         {   "id": "LZID4O3XORKBUROSQXBCH2B7WZM",
+                             "option_id": 1,
+                             "is_correct": false,
+                             "statement": {
+                                 "component_name": "section",
+                                 "component_id": "L5JTWCIKH3XDURK5WTOVWU3YELQ",
+                                 "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                              }
+                               ,
+                              "feedback": {
+                                 "component_name": "section",
+                                 "component_id": "LK4XIO5ROB5MERFXXQEVQC5CJMQ",
+                                  "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                }
+                              
+                          } ,
+                         {   "id": "L7NZTU3EFPKVELANAF7MLPBVSYE",
+                             "option_id": 2,
+                             "is_correct": false,
+                             "statement": {
+                                 "component_name": "section",
+                                 "component_id": "LNZ2S4MPFHC7ENG7D4Z2AZEUDIA",
+                                 "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                              }
+                               ,
+                              "feedback": {
+                                 "component_name": "section",
+                                 "component_id": "LGZECWYQPLKXUDEREU6DCQYMJZ4",
+                                  "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                }
+                              
+                          } ,
+                         {   "id": "LKLWTP2AUCXWUTDHR5HVX6IZTZ4",
+                             "option_id": 3,
+                             "is_correct": false,
+                             "statement": {
+                                 "component_name": "section",
+                                 "component_id": "LFQA4XF2UXGFU7P5L4XTGEBVNJU",
+                                 "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                              }
+                               ,
+                              "feedback": {
+                                 "component_name": "section",
+                                 "component_id": "LMBOHBONJODSEFFWSL2FOEV22TA",
+                                  "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                }
+                              
+                          }  
+                        ],
+                      "feedback": {
+                                     
+                                      "correct": {
+                                       "id":"LZVXE3ZVDMD4U5MMRZX6DGAFBLQ",
+                                      "content": [
+                                              {
+                                                  "component_name": "section",
+                                                  "component_id": "LECTOKPPRSMYULHT6SGM6RTQUEU",
+                                                  "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                              }
+                                                  ]
+                                              }
+                                  },
+                          "hints": [
+                              
+                                  ],
+                        "submit": {
+                                      "text": "Submit"
+                                  }
+              } ,
+                      "LY6ACOG2OJ3UUNEAEIU2VPUKBV4":{
+                        "type": "radio",
+                        "mcq_type":
+                                       null
+                                      ,
+                        "question_full_width":false,
+                        "submit_counter": false,
+                        "question_title":" ",
+                        "question_number":"2",
+                        "column": 2,
+                        "submit_limit": 2,
+                        "shuffled": true,
+                        "feedback_type": 
+                                                "incorrect"
+                                              ,
+                        "theme":"",
+                        "validation":
+                                      true
+                                     ,
+                        
+                               "animation": null,
+                            
+                        "statement": {
+                            "content": [
+                                {
+                                    "component_name": "section",
+                                    "component_id": "LIATAWUJKIDCUXN4HMWYFUJVXPA",
+                                     "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                }
+                            ]
+                            
+                        },
+                      
+                        "side_image": {
+                            "content": [
+                                {
+                                    "component_name": "image",
+                                    "component_id": "L6EBQK72OMH6UBLN3N7OWIDYZJA",
+                                     "file_name": [ "image", "image_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                }
+                            ]
+                            
+                        },
+                      
+                     "options": [
+                     
+                         {   "id": "LWA2IEM5IBYXUNCAJNDETLLE4YM",
+                             "option_id": 0,
+                             "is_correct": true,
+                             "statement": {
+                                 "component_name": "section",
+                                 "component_id": "LCEYE7WEJOULE5HAI5CPN5FYDU4",
+                                 "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                              }
+                               
+                          } ,
+                         {   "id": "LHXLKFXTRE4BUDH3WKOSA5WIJJY",
+                             "option_id": 1,
+                             "is_correct": false,
+                             "statement": {
+                                 "component_name": "section",
+                                 "component_id": "LRKYC2TM5QANEDOSUUPANJ2VMVM",
+                                 "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                              }
+                               ,
+                              "feedback": {
+                                 "component_name": "section",
+                                 "component_id": "LCZSOVHLMRHJEVNLI7ASROFWRU4",
+                                  "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                }
+                              
+                          } ,
+                         {   "id": "LTXIPS3BYESLUPE5EB4MANQMKMY",
+                             "option_id": 2,
+                             "is_correct": false,
+                             "statement": {
+                                 "component_name": "section",
+                                 "component_id": "LBJ74WWLUO4PEFGND7MPARKN3AM",
+                                 "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                              }
+                               ,
+                              "feedback": {
+                                 "component_name": "section",
+                                 "component_id": "LX3D46X3RJOAUHBQWBCGB7D5KWI",
+                                  "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                }
+                              
+                          } ,
+                         {   "id": "LXGJVRNYOTO5EBEIZ5G3XYC2PC4",
+                             "option_id": 3,
+                             "is_correct": false,
+                             "statement": {
+                                 "component_name": "section",
+                                 "component_id": "LU57RPUZONYAUDB5DJAMSCTNPQQ",
+                                 "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                              }
+                               ,
+                              "feedback": {
+                                 "component_name": "section",
+                                 "component_id": "LIQCHRJGI57NEBOHCTCDPMUSZEE",
+                                  "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                }
+                              
+                          }  
+                        ],
+                      "feedback": {
+                                     
+                                      "correct": {
+                                       "id":"LB2KLQEIJKSTUJEHYZXA3QDWWXM",
+                                      "content": [
+                                              {
+                                                  "component_name": "section",
+                                                  "component_id": "LK5XVIPV7IAWERNDFMGLPQUOKNA",
+                                                  "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                              }
+                                                  ]
+                                              }
+                                  },
+                          "hints": [
+                              
+                                  ],
+                        "submit": {
+                                      "text": "Submit"
+                                  }
+              } ,
+                      "L62GPSMYLJMQEDBUMHUKBKWQWNA":{
+                        "type": "radio",
+                        "mcq_type":
+                                       null
+                                      ,
+                        "question_full_width":false,
+                        "submit_counter": false,
+                        "question_title":" ",
+                        "question_number":"3",
+                        "column": 2,
+                        "submit_limit": 2,
+                        "shuffled": true,
+                        "feedback_type": 
+                                                "incorrect"
+                                              ,
+                        "theme":"",
+                        "validation":
+                                      true
+                                     ,
+                        
+                               "animation": null,
+                            
+                        "statement": {
+                            "content": [
+                                {
+                                    "component_name": "section",
+                                    "component_id": "LHQGDREVIGFDUHM73S7QBTEUCCY",
+                                     "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                }
+                            ]
+                            
+                        },
+                      
+                        "side_image": {
+                            "content": [
+                                {
+                                    "component_name": "image",
+                                    "component_id": "LS4N42QIDRIOUXDKZAGKPXEJIEE",
+                                     "file_name": [ "image", "image_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                }
+                            ]
+                            
+                        },
+                      
+                     "options": [
+                     
+                         {   "id": "LINMQEUUQ4WUETH3LOLCQIWYWXM",
+                             "option_id": 0,
+                             "is_correct": true,
+                             "statement": {
+                                 "component_name": "section",
+                                 "component_id": "LOIZUDSLDWWQENP37TJQ7X3656I",
+                                 "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                              }
+                               
+                          } ,
+                         {   "id": "LOHZDEHMEPOQU7IXFXMHD2FFMSE",
+                             "option_id": 1,
+                             "is_correct": false,
+                             "statement": {
+                                 "component_name": "section",
+                                 "component_id": "LBE3AYLZTLFHEVKKG2YXB6PEHRY",
+                                 "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                              }
+                               ,
+                              "feedback": {
+                                 "component_name": "section",
+                                 "component_id": "LVJPBGNXDFPLU3IOXYXGCGZ7DK4",
+                                  "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                }
+                              
+                          } ,
+                         {   "id": "L64C7KCPQLMBU3F7WUU4ZCND3LU",
+                             "option_id": 2,
+                             "is_correct": false,
+                             "statement": {
+                                 "component_name": "section",
+                                 "component_id": "LLTVLJGXBKRLEDOYGBJ3OMTRP3Q",
+                                 "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                              }
+                               ,
+                              "feedback": {
+                                 "component_name": "section",
+                                 "component_id": "LUBHMHXGU4YREFKXIXT7PZWBZSU",
+                                  "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                }
+                              
+                          }  
+                        ],
+                      "feedback": {
+                                     
+                                      "correct": {
+                                       "id":"LZ2FE54PLGJFUHHA7ZDUDPNDKU4",
+                                      "content": [
+                                              {
+                                                  "component_name": "section",
+                                                  "component_id": "LMKKKQI54BKKEDBGH5C5BQAK56Y",
+                                                  "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                              }
+                                                  ]
+                                              }
+                                  },
+                          "hints": [
+                              
+                                  ],
+                        "submit": {
+                                      "text": "Submit"
+                                  }
+              } 
+      ,
+
+                "LOMWTDBANKZPEFMHWB6L3MMTOC4_LNAVGZDI77FVEJA3MDSKWM36ZLU":{
+              
+                   "type": "matching",
+                   "orientation": "vertical",
+                   "mode": "line",
+                   "submit_counter": false,
+                   "submit_limit": 2,
+                   "feedback_type": 
+                                            "incorrect"
+                                          ,
+                   "item_cell_height": 120,
+                   "item_label": "Items",
+                   "option_label": "Options",
+                   "validation":
+                                      true
+                                     ,
+              
+                   "statement": {
+                      "content": [
+                          {
+                              "component_name": "section",
+                              "component_id": "L2W424AC7UVOE5ANKI5XQOFSOJU_LNAVGZDI77FVEJA3MDSKWM36ZLU",
+                             "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                  }
+                              ]
+                          },
+               
+                  "items": [
+                
+                    {
+                      "item_id":  0,
+                      "id": "LHCDODYYMOASU3PXD5GTUKB7DPU_LNAVGZDI77FVEJA3MDSKWM36ZLU", 
+                          
+                             "statement": {
+                                 "component_name": "section",
+                                 "component_id": "LXMWQJQBTA7CEPBW5WB4ZNCC2XE_LNAVGZDI77FVEJA3MDSKWM36ZLU",
+                                  "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                            },
+                             
+                            "answer_id": "LEGTDWJP5X7ZEFJBSGOYTY5EJ4A_LNAVGZDI77FVEJA3MDSKWM36ZLU",
+                           
+                    
+
+                      "feedback": {
+                               "component_name": "section",
+                               "component_id": "",
+                               "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                      }
+                    }
+                  
+                    , 
+                    {
+                      "item_id":  1,
+                      "id": "LWYIHP7F322CETELMYJ4IE7KNDM_LNAVGZDI77FVEJA3MDSKWM36ZLU", 
+                          
+                             "statement": {
+                                 "component_name": "section",
+                                 "component_id": "LSMKWQJSCZ72EHLN55GEBRPOCLE_LNAVGZDI77FVEJA3MDSKWM36ZLU",
+                                  "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                            },
+                             
+                            "answer_id": "LB6EJ7QWAOOYE7FPZFYKDM6FVHU_LNAVGZDI77FVEJA3MDSKWM36ZLU",
+                           
+                    
+
+                      "feedback": {
+                               "component_name": "section",
+                               "component_id": "",
+                               "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                      }
+                    }
+                  
+                    , 
+                    {
+                      "item_id":  2,
+                      "id": "LHEP55D3TC5YUFKOREHDO6XRLYY", 
+                          
+                             "statement": {
+                                 "component_name": "section",
+                                 "component_id": "LQOKLMLGFIZPEDLWS4TRTH4CQNU",
+                                  "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                            },
+                             
+                            "answer_id": "L66CPGSNH6SKUVJ6XDTK4GFEXHM",
+                           
+                    
+
+                      "feedback": {
+                               "component_name": "section",
+                               "component_id": "",
+                               "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                      }
+                    }
+                  
+                    , 
+                    {
+                      "item_id":  3,
+                      "id": "L5VQZEXBWPMCUXLPD77EHLCOAMU", 
+                          
+                             "statement": {
+                                 "component_name": "section",
+                                 "component_id": "LZSK4GP66PRPEZEFEEAQG64QWYQ",
+                                  "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                            },
+                             
+                            "answer_id": "LJIQPHRHH7VNUVJD54622VS5WL4",
+                           
+                    
+
+                      "feedback": {
+                               "component_name": "section",
+                               "component_id": "",
+                               "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                      }
+                    }
+                  
+                    
+                ],
+
+                 "options": [
+                  
+                    {
+                      
+                            "option_id": "LEGTDWJP5X7ZEFJBSGOYTY5EJ4A_LNAVGZDI77FVEJA3MDSKWM36ZLU",
+                            "statement": {
+                                 "component_name": "section",
+                                 "component_id": "LEGTDWJP5X7ZEFJBSGOYTY5EJ4A_LNAVGZDI77FVEJA3MDSKWM36ZLU",
+                                "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                 } 
+                           
+
+                    } ,
+                    {
+                      
+                            "option_id": "LB6EJ7QWAOOYE7FPZFYKDM6FVHU_LNAVGZDI77FVEJA3MDSKWM36ZLU",
+                            "statement": {
+                                 "component_name": "section",
+                                 "component_id": "LB6EJ7QWAOOYE7FPZFYKDM6FVHU_LNAVGZDI77FVEJA3MDSKWM36ZLU",
+                                "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                 } 
+                           
+
+                    } ,
+                    {
+                      
+                            "option_id": "L66CPGSNH6SKUVJ6XDTK4GFEXHM",
+                            "statement": {
+                                 "component_name": "section",
+                                 "component_id": "L66CPGSNH6SKUVJ6XDTK4GFEXHM",
+                                "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                 } 
+                           
+
+                    } ,
+                    {
+                      
+                            "option_id": "LJIQPHRHH7VNUVJD54622VS5WL4",
+                            "statement": {
+                                 "component_name": "section",
+                                 "component_id": "LJIQPHRHH7VNUVJD54622VS5WL4",
+                                "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                 } 
+                           
+
+                    } 
+
+                 ],
+
+                 "feedback": {
+                              
+                              },
+                  "hints": [
+                              
+                                 {
+                                    "hint_id": 0,
+                                    "id":"L55DEBF76QHMEPDJ4EXZMW2XQ5Q",
+                                    "content": [
+                                        {
+                                            "component_name": "section",
+                                            "component_id": "LCYU7VATCPUEUDDOWRSYRMWTB54",
+                                            "file_name": [ "section", "section_HM4VFK5UM3VUPM4AADARTAMKPM"]
+                                        }
+                                    ]
+                                 }  
+                            ],
+                  "submit": {
+                                "text": "Submit"
+                            }
+       } 
+
+   }
+}
+
+    
